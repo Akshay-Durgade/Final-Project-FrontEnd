@@ -14,6 +14,7 @@ import AddCrop from "./Components/Addcrop";
 function App() {
   return (
     <>
+    {/* HIi */}
       <div className="App">
         <BrowserRouter>
           <NavigationBar></NavigationBar>
